@@ -1,3 +1,5 @@
+# Laravel Coding Conventions
+
 - [**Single responsibility principle**](#single-responsibility-principle)
 - [**Fat models, skinny controllers**](#fat-models-skinny-controllers)
 - [**Validation**](#validation)
